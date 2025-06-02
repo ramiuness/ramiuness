@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 **Quantitative researcher specializing in data-driven portfolio construction, risk modeling, and financial machine learning.**  
-I build and validate investment strategies using tools from stochastic optimization, dynamic programming, and statistical learning.  
+I build and validate investment strategies using tools from stochastic optimization, dynamic programming, and machine learning.  
 My repositories feature modular, production-grade implementations of models with a focus on robustness, transparency, and empirical evaluation.
 
 ---
