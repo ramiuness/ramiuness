@@ -20,7 +20,7 @@ My repositories feature modular, production-grade implementations of models with
 
 - End-to-end asset allocation systems  
 - Decision-aware predictive modeling
-- Robust performance evaluation under uncertainty
+- Robust performance under uncertainty
 ---
 
 ## ⚙️ Tech Stack
