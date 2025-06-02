@@ -19,9 +19,8 @@ My repositories feature modular, production-grade implementations of models with
 ## 🔭 Current Focus
 
 - End-to-end asset allocation systems  
-- Scenario-based backtesting  
 - Decision-aware predictive modeling
-
+- Robust performance evaluation under uncertainty
 ---
 
 ## ⚙️ Tech Stack
