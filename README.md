@@ -37,14 +37,14 @@ My repositories feature modular, production-grade implementations of models with
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white)
 ![Plots.jl](https://img.shields.io/badge/Plots.jl-julia?logo=julia&logoColor=white)
 
-### 🤖 Machine Learning  
+### 🤖 Machine Learning & Modeling 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9a9a9a?logo=lightgbm&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-76b900?logo=google&logoColor=white)
 
-### 📈 Optimization & Modeling  
+### 📈 Optimization  
 ![CVXPY](https://img.shields.io/badge/CVXPY-34495E?logo=python&logoColor=white)
 ![cvxpylayers](https://img.shields.io/badge/CVXPYLayers-2C3E50?logo=python&logoColor=white)
 ![JuMP](https://img.shields.io/badge/JuMP-9558B2?logo=julia&logoColor=white)
