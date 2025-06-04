@@ -57,7 +57,7 @@ My repositories feature modular, production-grade implementations of models with
 
 ## 📫 Let's Connect
 
-- 📧 [LinkedIn](https://www.linkedin.com/ramiuness) — feel free to reach out for collaboration, questions, or just a chat.
+- 📧 [LinkedIn](https://www.linkedin.com/in/ramiuness) — feel free to reach out for collaboration, questions, or just a chat.
 
 ---
 
