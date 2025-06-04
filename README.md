@@ -1,4 +1,4 @@
-# 👋 Welcome
+de# 👋 Welcome
 
 ![Quantitative Research](https://img.shields.io/badge/Focus-Quantitative%20Research-blueviolet)
 ![Portfolio Optimization](https://img.shields.io/badge/Domain-Portfolio%20Optimization-005f73)
@@ -57,7 +57,7 @@ My repositories feature modular, production-grade implementations of models with
 
 ## 📫 Let's Connect
 
-- 📧 [LinkedIn](https://www.linkedin.com) — feel free to reach out for collaboration, questions, or just a chat.
+- 📧 [LinkedIn](https://www.linkedin.com/ramiuness) — feel free to reach out for collaboration, questions, or just a chat.
 
 ---
 
