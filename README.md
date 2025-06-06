@@ -1,4 +1,4 @@
-de# 👋 Welcome
+👋 Welcome
 
 ![Quantitative Research](https://img.shields.io/badge/Focus-Quantitative%20Research-blueviolet)
 ![Portfolio Optimization](https://img.shields.io/badge/Domain-Portfolio%20Optimization-005f73)
